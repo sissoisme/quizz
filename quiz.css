@@ -35,7 +35,7 @@ body {
 
 .selector div {
 
-
+max-height: 100px;
     background-color: bisque;
     border: 2px black solid;
     border-radius: 30px;
@@ -246,7 +246,7 @@ form input[type=button] {
         left: 38%;
     height: 42%;}
     .rules{color:white;}
-    form input{width:25%}
+    form input{width:80px}
 
 
 
