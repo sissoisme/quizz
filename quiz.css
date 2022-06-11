@@ -244,16 +244,16 @@ form input[type=button] {
     #popup{width: 80%;
         top:20%;
         left: 38%;
-    height: 42%;}
+    height: 45%;}
     .rules{color:white;}
-    form input{width:80px}
+    form input{width:100px}
 form{ border: 10px solid rgb(0, 0, 0);
     background-color:gold;}
     .selector div{font-size 12px;}
 
 
     .sideOrder{position: relative;
-    left:0}
+    left:0 :top:20px}
     .selector{width: 98vw;}
     .box{width: 90vw;}
     .container{width: 100vw;
