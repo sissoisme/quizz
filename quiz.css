@@ -81,9 +81,9 @@ form input[type=button] {
     border: 1px black solid;
     height: 450px;
     width: 120px;
-    position: relative;
-    left: 40px;
-    bottom: 510px;
+    position: absolute;
+    left:70px;
+    top: 70px;
     padding: 20px;
     background-image: -webkit-linear-gradient(top, red, white, blue);
     display: flex;
@@ -121,9 +121,9 @@ form input[type=button] {
     border: 1px black solid;
     height: 480px;
     width: 200px;
-    position: relative;
-    left: -30px;
-    bottom: 1000px;
+    position: absolute;
+    right: 70px;
+    top: 70px;
     background-image: -webkit-linear-gradient(top, red, white, blue);
     box-shadow: 0 3px 5px black;
     float: right;
