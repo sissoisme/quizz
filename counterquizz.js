@@ -23,9 +23,10 @@ function startTimer(duration, display) {
                 // location.href = "quiz.html"
                 
 
-                window.close()
+                window.close();
+                location.href = "index.html";
             })
-            // window.close()
+            
         }
         if (--timer < 0) {
             timer = 0;
