@@ -149,7 +149,8 @@ document.getElementById('selector1').addEventListener('click', function () {
             document.getElementById('sendEmail').style.display = "block";
             document.getElementById('sendBtn').addEventListener('click', function () {
                 alert('Thank You. We Will Send The Copun To Your Email Soon.');
-                window.close();
+                                window.close();
+                location.href = "index.html";
             })
         } else if (uscore >= 80 && uscore !== 100) {
             document.getElementById('selector1').style.display = "none";
@@ -164,7 +165,8 @@ document.getElementById('selector1').addEventListener('click', function () {
             document.getElementById('sendEmail').style.display = "block";
             document.getElementById('sendBtn').addEventListener('click', function () {
                 alert('Thank You. We Will Send The Copun To Your Email Soon.');
-                window.close();
+                                window.close();
+                location.href = "index.html";
             })
         } else {
             document.getElementById('selector1').style.display = "none";
@@ -176,7 +178,8 @@ document.getElementById('selector1').addEventListener('click', function () {
             document.getElementById('popup').style.display = "block";
             document.getElementById('returnBtn').innerHTML = "colse window";
             document.getElementById('returnBtn').addEventListener('click', function () {
-                window.close();
+                                window.close();
+                location.href = "index.html";
             })
         }
     }
@@ -249,7 +252,8 @@ document.getElementById('selector2').addEventListener('click', function () {
             document.getElementById('sendEmail').style.display = "block";
             document.getElementById('sendBtn').addEventListener('click', function () {
                 alert('Thank You. We Will Send The Copun To Your Email Soon.');
-                window.close();
+                               window.close();
+                location.href = "index.html";
             })
         } else {
             document.getElementById('selector1').style.display = "none";
@@ -261,7 +265,8 @@ document.getElementById('selector2').addEventListener('click', function () {
             document.getElementById('popup').style.display = "block";
             document.getElementById('returnBtn').innerHTML = "colse window";
             document.getElementById('returnBtn').addEventListener('click', function () {
-                window.close();
+                               window.close();
+                location.href = "index.html";
             })
         }
     }
@@ -319,7 +324,8 @@ document.getElementById('selector3').addEventListener('click', function () {
             document.getElementById('sendEmail').style.display = "block";
             document.getElementById('sendBtn').addEventListener('click', function () {
                 alert('Thank You. We Will Send The Copun To Your Email Soon.');
-                window.close();
+                                window.close();
+                location.href = "index.html";
             })
         } else if (uscore >= 80 && uscore !== 100) {
             document.getElementById('selector1').style.display = "none";
@@ -334,7 +340,8 @@ document.getElementById('selector3').addEventListener('click', function () {
             document.getElementById('sendEmail').style.display = "block";
             document.getElementById('sendBtn').addEventListener('click', function () {
                 alert('Thank You. We Will Send The Copun To Your Email Soon.');
-                window.close();
+                               window.close();
+                location.href = "index.html";
             })
         } else {
             document.getElementById('selector1').style.display = "none";
@@ -346,7 +353,8 @@ document.getElementById('selector3').addEventListener('click', function () {
             document.getElementById('popup').style.display = "block";
             document.getElementById('returnBtn').innerHTML = "colse window";
             document.getElementById('returnBtn').addEventListener('click', function () {
-                window.close();
+                                window.close();
+                location.href = "index.html";
             })
         }
     }
@@ -403,7 +411,8 @@ document.getElementById('selector4').addEventListener('click', function () {
             document.getElementById('sendEmail').style.display = "block";
             document.getElementById('sendBtn').addEventListener('click', function () {
                 alert('Thank You. We Will Send The Copun To Your Email Soon.');
-                window.close();
+                                window.close();
+                location.href = "index.html";
             })
         } else if (uscore >= 80 && uscore !== 100) {
             document.getElementById('selector1').style.display = "none";
@@ -418,7 +427,8 @@ document.getElementById('selector4').addEventListener('click', function () {
             document.getElementById('sendEmail').style.display = "block";
             document.getElementById('sendBtn').addEventListener('click', function () {
                 alert('Thank You. We Will Send The Copun To Your Email Soon.');
-                window.close();
+                               window.close();
+                location.href = "index.html";
             })
         } else {
             document.getElementById('selector1').style.display = "none";
@@ -430,7 +440,8 @@ document.getElementById('selector4').addEventListener('click', function () {
             document.getElementById('popup').style.display = "block";
             document.getElementById('returnBtn').innerHTML = "colse window";
             document.getElementById('returnBtn').addEventListener('click', function () {
-                window.close();
+                               window.close();
+                location.href = "index.html";
             })
         }
     }
