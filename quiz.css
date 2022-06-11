@@ -244,7 +244,8 @@ form input[type=button] {
     #popup{width: 80%;
         top:20%;
         left: 38%;
-    height: 30%;}
+    height: 35%;}
+    .rules{color:white;}
 
 
 
