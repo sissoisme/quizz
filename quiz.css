@@ -244,7 +244,7 @@ form input[type=button] {
     #popup{width: 80%;
         top:20%;
         left: 38%;
-    height: 35%;}
+    height: 42%;}
     .rules{color:white;}
 
 
@@ -254,7 +254,8 @@ form input[type=button] {
     left:0}
     .selector{width: 98vw;}
     .box{width: 90vw;}
-    .container{width: 100vw;}
+    .container{width: 100vw;
+    height:110vh;}
     .sideProg,
     .sideOrder {
         width: 100%;
