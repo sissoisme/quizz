@@ -247,7 +247,9 @@ form input[type=button] {
     height: 42%;}
     .rules{color:white;}
     form input{width:80px}
-
+form{ border: 10px solid rgb(0, 0, 0);
+    background-color:gold;}
+    
 
 
     .sideOrder{position: relative;
