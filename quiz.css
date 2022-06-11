@@ -239,8 +239,8 @@ form input[type=button] {
 }
 
 @media(max-width:550px) {
-    #content{font-size: 2vh;}
-
+    #content{font-size: 4vh;}
+    .clock{margin-top 25px}
     #popup{width: 80%;
         top:20%;
         left: 38%;
